@@ -1,0 +1,46 @@
+.main_container{
+    height: 300px;
+    width: auto;
+    border-radius: 12px;
+    border-style: hidden;
+    background-color: grey;
+    display: flex;
+}
+
+.right_container{
+    position: relative;
+  float: right;
+
+}
+.main_icon{
+    height: 150px;
+    width: auto;
+    text-align: center;
+    padding: 20px;
+    vertical-align: top;
+}
+
+.cta{
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    border-radius: 50px;
+    vertical-align: bottom;
+    float: right;
+}
+
+.heading{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    padding: 10px;
+}
+
+.sub_heading{
+    display: flex;
+    margin: 10px;
+}
+
+.icon{
+    border-radius: 50px;
+}
